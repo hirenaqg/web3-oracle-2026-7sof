@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (e0189f3d4e10b859)
+project:
+  name: web3-oracle-2026-7sof
+  tag: e0189f3d4e10b859
+  env: production
+cfg_bridgeh288sp:
+  enabled: true
+  workers: 2
+cfg_kernelnyn3ep:
+  timeout_sec: 22
+  retry: 1
+cfg_anchornq7ro6:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
