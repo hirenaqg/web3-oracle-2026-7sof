@@ -1,0 +1,9 @@
+[package]
+name = "web3_oracle_2026_7sof"
+version = "0.1.5"
+edition = "2021"
+description = "Utility scaffold — tag e0189f3d"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
